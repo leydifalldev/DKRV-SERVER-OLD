@@ -1,0 +1,1 @@
+export { PlaceRepository } from "./Place/place.repository";
