@@ -1,7 +1,7 @@
 import express from "express";
-import productRouter from "./resources/Place";
+import placeRouter from "./resources/Place";
 
 const apiRouter = express.Router();
-apiRouter.use("/place", productRouter);
+apiRouter.use("/place", placeRouter);
 
 export default apiRouter;
