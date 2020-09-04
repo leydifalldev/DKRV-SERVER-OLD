@@ -82,7 +82,7 @@
     "concurrently": "^4.0.1",
     "jest": "^23.6.0",
     "mocha": "^6.0.2",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.18.4",
     "shelljs": "^0.8.2",
     "supertest": "^3.4.2",
