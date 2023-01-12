@@ -20,7 +20,7 @@
     "bluebird": "^3.5.2",
     "body-parser": "^1.18.3",
     "chai-http": "^4.2.1",
-    "class-validator": "^0.9.1",
+    "class-validator": "^0.14.0",
     "compression": "^1.7.3",
     "connect-mongo": "^2.0.1",
     "dotenv": "^6.0.0",
